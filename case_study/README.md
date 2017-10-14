@@ -9,3 +9,6 @@ To work properly, you need to have:
 * python version : 3.6.2.final.0
 * requests version : 2.18.4
 
+## Datasets
+The datasets folder contains smaller version of the real-world datasets.
+
